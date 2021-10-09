@@ -1,7 +1,7 @@
 This template was forked from a repository created by Souvik Biswas
 
 # Use this template to spin up docker Dev envrionment for flutter
-
+# Alternatively download the flutter development envrionment docker image from docker.io/publicdockerimages/flutter_dev_env
 # Steps to use this template
 
 1. Clone this repo:
